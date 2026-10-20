@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:13.634626Z
+addr = 0xc27d00
+size = 0x71
+name = "UTIL_PrecacheOther"
+type = "long long"
+
+[header]
+name = "UTIL_PrecacheOther"
+addr = 0xc27d00
+type = "long long"
+
+[header.args]

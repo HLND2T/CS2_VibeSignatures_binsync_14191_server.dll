@@ -1,0 +1,10 @@
+last_change = 2026-10-20T15:10:52.557906Z
+addr = 0x156ca0
+size = 0x3
+name = "IGameSystem_OnServerGamePostSimulate"
+
+[header]
+name = "IGameSystem_OnServerGamePostSimulate"
+addr = 0x156ca0
+
+[header.args]

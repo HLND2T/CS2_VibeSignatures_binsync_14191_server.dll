@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558014Z
+addr = 0x2d7c70
+size = 0x1d8
+name = "CCSBot_PrintIfWatched"
+type = "void"
+
+[header]
+name = "CCSBot_PrintIfWatched"
+addr = 0x2d7c70
+type = "void"
+
+[header.args]

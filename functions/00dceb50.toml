@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558744Z
+addr = 0xdceb50
+size = 0xf1
+name = "CSource2Server_WriteSignonMessages"
+type = "long long"
+
+[header]
+name = "CSource2Server_WriteSignonMessages"
+addr = 0xdceb50
+type = "long long"
+
+[header.args]

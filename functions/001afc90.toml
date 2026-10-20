@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.557944Z
+addr = 0x1afc90
+size = 0x99
+name = "CSource2Server_GetMatchmakingGameData"
+type = "unsigned int"
+
+[header]
+name = "CSource2Server_GetMatchmakingGameData"
+addr = 0x1afc90
+type = "unsigned int"
+
+[header.args]

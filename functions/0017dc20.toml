@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.557934Z
+addr = 0x17dc20
+size = 0x189
+name = "NetworkStateChanged"
+type = "char"
+
+[header]
+name = "NetworkStateChanged"
+addr = 0x17dc20
+type = "char"
+
+[header.args]

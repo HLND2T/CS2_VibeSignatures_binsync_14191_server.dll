@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.557993Z
+addr = 0x298740
+size = 0x8
+name = "CGameMoney_GetDataDescMap"
+type = "long long *"
+
+[header]
+name = "CGameMoney_GetDataDescMap"
+addr = 0x298740
+type = "long long *"
+
+[header.args]

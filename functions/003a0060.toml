@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558049Z
+addr = 0x3a0060
+size = 0xeb
+name = "CFlashbangProjectile_Spawn"
+type = "long long"
+
+[header]
+name = "CFlashbangProjectile_Spawn"
+addr = 0x3a0060
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558515Z
+addr = 0xc12c30
+size = 0x1df
+name = "CGameEventManager_RemoveListener"
+type = "void"
+
+[header]
+name = "CGameEventManager_RemoveListener"
+addr = 0xc12c30
+type = "void"
+
+[header.args]

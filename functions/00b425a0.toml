@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:10.792509Z
+addr = 0xb425a0
+size = 0x19e
+name = "CCSPlayerController_Connect"
+type = "long long"
+
+[header]
+name = "CCSPlayerController_Connect"
+addr = 0xb425a0
+type = "long long"
+
+[header.args]

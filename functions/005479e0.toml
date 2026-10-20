@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:06.688698Z
+addr = 0x5479e0
+size = 0x1bb
+name = "IGameSystem_PostInit"
+type = "void *"
+
+[header]
+name = "IGameSystem_PostInit"
+addr = 0x5479e0
+type = "void *"
+
+[header.args]

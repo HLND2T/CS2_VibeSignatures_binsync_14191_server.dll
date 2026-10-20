@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:06.846652Z
+addr = 0x577500
+size = 0x97
+name = "Script_CommandLineFloat"
+type = "long long"
+
+[header]
+name = "Script_CommandLineFloat"
+addr = 0x577500
+type = "long long"
+
+[header.args]

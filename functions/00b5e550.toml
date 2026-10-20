@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558403Z
+addr = 0xb5e550
+size = 0x21d
+name = "CBasePlayerController_SimulateUserCommands"
+type = "void *"
+
+[header]
+name = "CBasePlayerController_SimulateUserCommands"
+addr = 0xb5e550
+type = "void *"
+
+[header.args]

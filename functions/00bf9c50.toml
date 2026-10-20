@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558493Z
+addr = 0xbf9c50
+size = 0x29
+name = "LegacyGameEventListener"
+type = "long long"
+
+[header]
+name = "LegacyGameEventListener"
+addr = 0xbf9c50
+type = "long long"
+
+[header.args]

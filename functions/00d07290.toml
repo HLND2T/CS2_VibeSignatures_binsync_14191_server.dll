@@ -1,0 +1,10 @@
+last_change = 2026-10-20T15:10:52.558708Z
+addr = 0xd07290
+size = 0x74
+name = "CBaseEntity_SetScriptOwnerEntity"
+
+[header]
+name = "CBaseEntity_SetScriptOwnerEntity"
+addr = 0xd07290
+
+[header.args]

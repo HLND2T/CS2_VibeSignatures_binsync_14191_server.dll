@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:09.373700Z
+addr = 0xa63f90
+size = 0x208
+name = "CCSPlayerController_dtor"
+type = "long long"
+
+[header]
+name = "CCSPlayerController_dtor"
+addr = 0xa63f90
+type = "long long"
+
+[header.args]

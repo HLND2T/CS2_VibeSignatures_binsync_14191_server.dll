@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558802Z
+addr = 0xde0900
+size = 0x93
+name = "CGameRules_GetSaveGameComment"
+type = "CUtlString *"
+
+[header]
+name = "CGameRules_GetSaveGameComment"
+addr = 0xde0900
+type = "CUtlString *"
+
+[header.args]

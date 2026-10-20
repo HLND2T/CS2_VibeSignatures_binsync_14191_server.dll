@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558042Z
+addr = 0x3417b0
+size = 0x13be
+name = "CInferno_InfernoThink"
+type = "long long"
+
+[header]
+name = "CInferno_InfernoThink"
+addr = 0x3417b0
+type = "long long"
+
+[header.args]

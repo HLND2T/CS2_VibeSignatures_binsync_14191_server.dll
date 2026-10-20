@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:09.311035Z
+addr = 0xa484f0
+size = 0x3ac
+name = "CCSPlayerController_SchemaClassManipulator"
+type = "long long"
+
+[header]
+name = "CCSPlayerController_SchemaClassManipulator"
+addr = 0xa484f0
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:19.499091Z
+addr = 0x1378170
+size = 0xdb
+name = "CEntitySystem_DestroyEntity"
+type = "long long"
+
+[header]
+name = "CEntitySystem_DestroyEntity"
+addr = 0x1378170
+type = "long long"
+
+[header.args]

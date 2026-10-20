@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:12.938468Z
+addr = 0xbfd7a0
+size = 0x299
+name = "CGameConfiguration_InitGameSession"
+type = "char"
+
+[header]
+name = "CGameConfiguration_InitGameSession"
+addr = 0xbfd7a0
+type = "char"
+
+[header.args]

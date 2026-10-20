@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558737Z
+addr = 0xdce660
+size = 0x285
+name = "CSource2Server_Init"
+type = "long long"
+
+[header]
+name = "CSource2Server_Init"
+addr = 0xdce660
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558399Z
+addr = 0xb5e320
+size = 0x3
+name = "CCSPlayerPawn_OnTakeDamage_Dead"
+type = "long long"
+
+[header]
+name = "CCSPlayerPawn_OnTakeDamage_Dead"
+addr = 0xb5e320
+type = "long long"
+
+[header.args]

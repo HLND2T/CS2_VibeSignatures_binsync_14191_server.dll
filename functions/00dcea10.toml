@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558741Z
+addr = 0xdcea10
+size = 0x72
+name = "CSource2Server_PreShutdown"
+type = "long long"
+
+[header]
+name = "CSource2Server_PreShutdown"
+addr = 0xdcea10
+type = "long long"
+
+[header.args]

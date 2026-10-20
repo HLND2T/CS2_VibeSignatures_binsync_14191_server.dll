@@ -1,0 +1,10 @@
+last_change = 2026-10-20T15:10:52.557913Z
+addr = 0x156d70
+size = 0x3
+name = "IGameSystem_OnOutOfGameFrameBoundary"
+
+[header]
+name = "IGameSystem_OnOutOfGameFrameBoundary"
+addr = 0x156d70
+
+[header.args]

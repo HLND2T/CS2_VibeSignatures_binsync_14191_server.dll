@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.557967Z
+addr = 0x1dd640
+size = 0xaab
+name = "CCSPlayerPawn_ProcessSuicideAsKillReward"
+type = "void"
+
+[header]
+name = "CCSPlayerPawn_ProcessSuicideAsKillReward"
+addr = 0x1dd640
+type = "void"
+
+[header.args]

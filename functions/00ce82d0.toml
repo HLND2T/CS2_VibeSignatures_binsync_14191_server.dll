@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:15.210970Z
+addr = 0xce82d0
+size = 0x17
+name = "CBasePlayerPawn_DropActivePlayerWeapon"
+type = "long long"
+
+[header]
+name = "CBasePlayerPawn_DropActivePlayerWeapon"
+addr = 0xce82d0
+type = "long long"
+
+[header.args]

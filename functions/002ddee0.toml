@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:05.490891Z
+addr = 0x2ddee0
+size = 0x469
+name = "CCSBotManager_StartFrame"
+type = "float *"
+
+[header]
+name = "CCSBotManager_StartFrame"
+addr = 0x2ddee0
+type = "float *"
+
+[header.args]

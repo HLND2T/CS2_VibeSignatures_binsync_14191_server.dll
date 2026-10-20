@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558594Z
+addr = 0xc57f30
+size = 0xc7
+name = "CLoopModeGame_SetGameSystemState"
+type = "void"
+
+[header]
+name = "CLoopModeGame_SetGameSystemState"
+addr = 0xc57f30
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:09.468124Z
+addr = 0xa6f240
+size = 0x15af
+name = "TraceAttack"
+type = "long long"
+
+[header]
+name = "TraceAttack"
+addr = 0xa6f240
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:19.152391Z
+addr = 0x1372860
+size = 0x219
+name = "CEntitySystem_AddEntityIOEventToQueue"
+type = "void"
+
+[header]
+name = "CEntitySystem_AddEntityIOEventToQueue"
+addr = 0x1372860
+type = "void"
+
+[header.args]

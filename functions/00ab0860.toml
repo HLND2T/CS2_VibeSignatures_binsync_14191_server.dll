@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:09.847318Z
+addr = 0xab0860
+size = 0x10d4
+name = "CCSPlayer_ItemServices_CanAcquire"
+type = "long long"
+
+[header]
+name = "CCSPlayer_ItemServices_CanAcquire"
+addr = 0xab0860
+type = "long long"
+
+[header.args]

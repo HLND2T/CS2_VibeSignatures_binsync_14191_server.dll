@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558969Z
+addr = 0x1382650
+size = 0x21f
+name = "CEntitySystem_RemoveEntityFromNameMap"
+type = "unsigned long long"
+
+[header]
+name = "CEntitySystem_RemoveEntityFromNameMap"
+addr = 0x1382650
+type = "unsigned long long"
+
+[header.args]

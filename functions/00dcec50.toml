@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558746Z
+addr = 0xdcec50
+size = 0xde
+name = "CSource2Server_PreWorldUpdate"
+type = "long long"
+
+[header]
+name = "CSource2Server_PreWorldUpdate"
+addr = 0xdcec50
+type = "long long"
+
+[header.args]

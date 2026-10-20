@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:11.897486Z
+addr = 0xb70160
+size = 0x363
+name = "CBasePlayerController_Spawn"
+type = "long long"
+
+[header]
+name = "CBasePlayerController_Spawn"
+addr = 0xb70160
+type = "long long"
+
+[header.args]

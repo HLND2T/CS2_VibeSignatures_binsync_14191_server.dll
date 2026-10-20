@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.557977Z
+addr = 0x2598d0
+size = 0x44
+name = "CCSPlayerPawnBase_OnSetDormant"
+type = "double"
+
+[header]
+name = "CCSPlayerPawnBase_OnSetDormant"
+addr = 0x2598d0
+type = "double"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558766Z
+addr = 0xdcfae0
+size = 0xf4
+name = "CSource2Server_ServerConVarChanged"
+type = "long long"
+
+[header]
+name = "CSource2Server_ServerConVarChanged"
+addr = 0xdcfae0
+type = "long long"
+
+[header.args]

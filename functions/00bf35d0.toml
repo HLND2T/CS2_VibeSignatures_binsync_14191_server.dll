@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558484Z
+addr = 0xbf35d0
+size = 0x25
+name = "CGameEntitySystem_FindEntityByClassName"
+type = "long long"
+
+[header]
+name = "CGameEntitySystem_FindEntityByClassName"
+addr = 0xbf35d0
+type = "long long"
+
+[header.args]

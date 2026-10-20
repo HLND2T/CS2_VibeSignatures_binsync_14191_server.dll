@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558307Z
+addr = 0xaae660
+size = 0x27a
+name = "CCSPlayer_MovementServices_AirAccelerate"
+type = "void"
+
+[header]
+name = "CCSPlayer_MovementServices_AirAccelerate"
+addr = 0xaae660
+type = "void"
+
+[header.args]

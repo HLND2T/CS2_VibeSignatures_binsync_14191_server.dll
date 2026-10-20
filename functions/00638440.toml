@@ -1,0 +1,10 @@
+last_change = 2026-10-20T15:10:52.558184Z
+addr = 0x638440
+size = 0x5
+name = "CBaseEntity_ScriptGetLocalAngles"
+
+[header]
+name = "CBaseEntity_ScriptGetLocalAngles"
+addr = 0x638440
+
+[header.args]

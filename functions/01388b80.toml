@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558975Z
+addr = 0x1388b80
+size = 0x130
+name = "CEntitySystem_UpdateOnRemove"
+type = "char"
+
+[header]
+name = "CEntitySystem_UpdateOnRemove"
+addr = 0x1388b80
+type = "char"
+
+[header.args]

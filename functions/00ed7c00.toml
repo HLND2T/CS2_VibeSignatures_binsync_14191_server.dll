@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:18.519695Z
+addr = 0xed7c00
+size = 0x272
+name = "CLagCompensationManager_StartLagCompensation"
+type = "void"
+
+[header]
+name = "CLagCompensationManager_StartLagCompensation"
+addr = 0xed7c00
+type = "void"
+
+[header.args]

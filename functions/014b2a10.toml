@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.559016Z
+addr = 0x14b2a10
+size = 0x26e9
+name = "CNavMesh_GetNearestNavArea"
+type = "long long"
+
+[header]
+name = "CNavMesh_GetNearestNavArea"
+addr = 0x14b2a10
+type = "long long"
+
+[header.args]

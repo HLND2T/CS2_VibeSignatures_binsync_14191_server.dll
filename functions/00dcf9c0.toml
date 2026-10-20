@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558763Z
+addr = 0xdcf9c0
+size = 0xd6
+name = "CSource2Server_UpdateWhenNotInGame"
+type = "long long"
+
+[header]
+name = "CSource2Server_UpdateWhenNotInGame"
+addr = 0xdcf9c0
+type = "long long"
+
+[header.args]

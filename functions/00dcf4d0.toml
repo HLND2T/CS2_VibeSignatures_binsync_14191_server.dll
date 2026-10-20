@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558752Z
+addr = 0xdcf4d0
+size = 0x19
+name = "CSource2Server_ShouldTimeoutClient"
+type = "char"
+
+[header]
+name = "CSource2Server_ShouldTimeoutClient"
+addr = 0xdcf4d0
+type = "char"
+
+[header.args]

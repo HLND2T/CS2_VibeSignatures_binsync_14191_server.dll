@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:05.586486Z
+addr = 0x2e8170
+size = 0x384
+name = "BotKill_CommandHandler"
+type = "void"
+
+[header]
+name = "BotKill_CommandHandler"
+addr = 0x2e8170
+type = "void"
+
+[header.args]

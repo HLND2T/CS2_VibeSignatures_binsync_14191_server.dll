@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:05.017666Z
+addr = 0x293370
+size = 0x930
+name = "CEntitySpawner_CPlayerSprayDecal_Spawn"
+type = "void"
+
+[header]
+name = "CEntitySpawner_CPlayerSprayDecal_Spawn"
+addr = 0x293370
+type = "void"
+
+[header.args]

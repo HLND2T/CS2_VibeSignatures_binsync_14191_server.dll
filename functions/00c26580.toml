@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:13.602862Z
+addr = 0xc26580
+size = 0x50e
+name = "TraceShape"
+type = "long long"
+
+[header]
+name = "TraceShape"
+addr = 0xc26580
+type = "long long"
+
+[header.args]

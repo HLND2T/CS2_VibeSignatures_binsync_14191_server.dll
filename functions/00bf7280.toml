@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:12.779643Z
+addr = 0xbf7280
+size = 0x28e
+name = "CGameEventManager_FireEvent"
+type = "char"
+
+[header]
+name = "CGameEventManager_FireEvent"
+addr = 0xbf7280
+type = "char"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.557953Z
+addr = 0x1c20f0
+size = 0x265
+name = "CCSPlayerPawn_CreatePlayerPawnServices"
+type = "char"
+
+[header]
+name = "CCSPlayerPawn_CreatePlayerPawnServices"
+addr = 0x1c20f0
+type = "char"
+
+[header.args]

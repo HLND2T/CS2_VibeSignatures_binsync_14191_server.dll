@@ -1,0 +1,10 @@
+last_change = 2026-10-20T15:10:52.558322Z
+addr = 0xab9100
+size = 0xb9d
+name = "CCSPlayer_MovementServices_Duck"
+
+[header]
+name = "CCSPlayer_MovementServices_Duck"
+addr = 0xab9100
+
+[header.args]

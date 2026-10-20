@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:12.590083Z
+addr = 0xbeb4c0
+size = 0x158
+name = "CEntitySaveRestoreBlockHandler_DoRestoreEntity"
+type = "bool"
+
+[header]
+name = "CEntitySaveRestoreBlockHandler_DoRestoreEntity"
+addr = 0xbeb4c0
+type = "bool"
+
+[header.args]

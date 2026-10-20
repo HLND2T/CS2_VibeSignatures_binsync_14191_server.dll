@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:16.784706Z
+addr = 0xdced70
+size = 0xbb
+name = "CSource2Server_GetLevelsFromSaveFile"
+type = "void"
+
+[header]
+name = "CSource2Server_GetLevelsFromSaveFile"
+addr = 0xdced70
+type = "void"
+
+[header.args]

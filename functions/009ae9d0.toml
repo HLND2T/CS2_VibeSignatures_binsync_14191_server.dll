@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558265Z
+addr = 0x9ae9d0
+size = 0x3d7
+name = "CSmokeGrenadeProjectile_Create"
+type = "long long"
+
+[header]
+name = "CSmokeGrenadeProjectile_Create"
+addr = 0x9ae9d0
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:05.143489Z
+addr = 0x29abe0
+size = 0x700
+name = "FilterWorkshopCommands"
+type = "long long"
+
+[header]
+name = "FilterWorkshopCommands"
+addr = 0x29abe0
+type = "long long"
+
+[header.args]

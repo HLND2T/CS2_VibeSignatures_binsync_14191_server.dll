@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558754Z
+addr = 0xdcf570
+size = 0x15
+name = "CSource2Server_GetAllServerClasses"
+type = "long long"
+
+[header]
+name = "CSource2Server_GetAllServerClasses"
+addr = 0xdcf570
+type = "long long"
+
+[header.args]

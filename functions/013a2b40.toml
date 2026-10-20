@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:20.886708Z
+addr = 0x13a2b40
+size = 0xc5
+name = "CEntityInstance_ValidatePrivateScriptScope"
+type = "void"
+
+[header]
+name = "CEntityInstance_ValidatePrivateScriptScope"
+addr = 0x13a2b40
+type = "void"
+
+[header.args]

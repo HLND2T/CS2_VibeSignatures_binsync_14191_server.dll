@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:18.016258Z
+addr = 0xe5dda0
+size = 0x161
+name = "CMultiplayRules_ctor"
+type = "unsigned long long *"
+
+[header]
+name = "CMultiplayRules_ctor"
+addr = 0xe5dda0
+type = "unsigned long long *"
+
+[header.args]

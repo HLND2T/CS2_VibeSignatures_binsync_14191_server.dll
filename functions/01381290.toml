@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:20.254986Z
+addr = 0x1381290
+size = 0x7f
+name = "CEntitySystem_PostDataUpdate"
+type = "long long"
+
+[header]
+name = "CEntitySystem_PostDataUpdate"
+addr = 0x1381290
+type = "long long"
+
+[header.args]

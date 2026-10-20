@@ -1,0 +1,10 @@
+last_change = 2026-10-20T15:10:52.558192Z
+addr = 0x6384f0
+size = 0x11
+name = "CBaseModelEntity_ScriptGetRenderAlpha"
+
+[header]
+name = "CBaseModelEntity_ScriptGetRenderAlpha"
+addr = 0x6384f0
+
+[header.args]

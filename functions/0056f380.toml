@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558118Z
+addr = 0x56f380
+size = 0x229
+name = "CSpawnGroupMgrGameSystem_AllocateSpawnGroup"
+type = "void"
+
+[header]
+name = "CSpawnGroupMgrGameSystem_AllocateSpawnGroup"
+addr = 0x56f380
+type = "void"
+
+[header.args]

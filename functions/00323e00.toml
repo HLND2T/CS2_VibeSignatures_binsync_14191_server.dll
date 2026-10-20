@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558034Z
+addr = 0x323e00
+size = 0xd92
+name = "CBotManager_StartFrame"
+type = "long long"
+
+[header]
+name = "CBotManager_StartFrame"
+addr = 0x323e00
+type = "long long"
+
+[header.args]

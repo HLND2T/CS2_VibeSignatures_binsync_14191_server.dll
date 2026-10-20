@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558476Z
+addr = 0xbe7400
+size = 0x1ae
+name = "CGameEventManager_CreateEvent"
+type = "long long"
+
+[header]
+name = "CGameEventManager_CreateEvent"
+addr = 0xbe7400
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558246Z
+addr = 0x91b0a0
+size = 0x42c
+name = "CHostage_Follow"
+type = "long long"
+
+[header]
+name = "CHostage_Follow"
+addr = 0x91b0a0
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558397Z
+addr = 0xb5da20
+size = 0x76b
+name = "CBasePlayerController_OnSimulateUserCommands"
+type = "long long"
+
+[header]
+name = "CBasePlayerController_OnSimulateUserCommands"
+addr = 0xb5da20
+type = "long long"
+
+[header.args]

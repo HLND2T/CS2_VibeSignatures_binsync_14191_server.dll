@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:08.869687Z
+addr = 0x8f92e0
+size = 0x5b3
+name = "PolymorphicHelper_t__SetPolymorphicPointer"
+type = "const char *"
+
+[header]
+name = "PolymorphicHelper_t__SetPolymorphicPointer"
+addr = 0x8f92e0
+type = "const char *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558771Z
+addr = 0xdd0800
+size = 0x441
+name = "CSource2Server_GetEntityReport"
+type = "char"
+
+[header]
+name = "CSource2Server_GetEntityReport"
+addr = 0xdd0800
+type = "char"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:06.372329Z
+addr = 0x3e57b0
+size = 0x825
+name = "CBaseEntity_TakeDamageOld"
+type = "unsigned long long"
+
+[header]
+name = "CBaseEntity_TakeDamageOld"
+addr = 0x3e57b0
+type = "unsigned long long"
+
+[header.args]

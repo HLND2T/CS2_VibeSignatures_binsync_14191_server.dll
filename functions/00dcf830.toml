@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558758Z
+addr = 0xdcf830
+size = 0x3b
+name = "CSource2Server_GameServerSteamAPIActivated"
+type = "double"
+
+[header]
+name = "CSource2Server_GameServerSteamAPIActivated"
+addr = 0xdcf830
+type = "double"
+
+[header.args]

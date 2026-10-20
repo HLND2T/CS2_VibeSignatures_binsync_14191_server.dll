@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558332Z
+addr = 0xacc390
+size = 0x1293
+name = "CCSPlayer_MovementServices_LadderMove"
+type = "char"
+
+[header]
+name = "CCSPlayer_MovementServices_LadderMove"
+addr = 0xacc390
+type = "char"
+
+[header.args]

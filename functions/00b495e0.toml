@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558385Z
+addr = 0xb495e0
+size = 0x80
+name = "CBaseModelEntity_GetBoneTransform"
+type = "_OWORD *"
+
+[header]
+name = "CBaseModelEntity_GetBoneTransform"
+addr = 0xb495e0
+type = "_OWORD *"
+
+[header.args]

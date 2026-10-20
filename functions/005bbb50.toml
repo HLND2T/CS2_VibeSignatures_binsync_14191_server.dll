@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558150Z
+addr = 0x5bbb50
+size = 0x161
+name = "CSpawnGroupMgrGameSystem_SpawnGroupSpawnEntities"
+type = "void"
+
+[header]
+name = "CSpawnGroupMgrGameSystem_SpawnGroupSpawnEntities"
+addr = 0x5bbb50
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:20.823054Z
+addr = 0x13a20f0
+size = 0x1c3
+name = "CBaseEntity_ReloadPrivateScripts"
+type = "void"
+
+[header]
+name = "CBaseEntity_ReloadPrivateScripts"
+addr = 0x13a20f0
+type = "void"
+
+[header.args]

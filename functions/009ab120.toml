@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:09.122599Z
+addr = 0x9ab120
+size = 0x416
+name = "SmokeVolume_BuildSmokeSimulation"
+type = "long long"
+
+[header]
+name = "SmokeVolume_BuildSmokeSimulation"
+addr = 0x9ab120
+type = "long long"
+
+[header.args]

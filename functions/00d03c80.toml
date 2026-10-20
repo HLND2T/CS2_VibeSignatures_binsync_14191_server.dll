@@ -1,0 +1,10 @@
+last_change = 2026-10-20T15:10:52.558698Z
+addr = 0xd03c80
+size = 0x198
+name = "CBaseEntity_ScriptSetParent"
+
+[header]
+name = "CBaseEntity_ScriptSetParent"
+addr = 0xd03c80
+
+[header.args]

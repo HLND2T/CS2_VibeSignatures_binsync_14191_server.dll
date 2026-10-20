@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558461Z
+addr = 0xbd38c0
+size = 0x109
+name = "TraceFunc"
+type = "long long"
+
+[header]
+name = "TraceFunc"
+addr = 0xbd38c0
+type = "long long"
+
+[header.args]

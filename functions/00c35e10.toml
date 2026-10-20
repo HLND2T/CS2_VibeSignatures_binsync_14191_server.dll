@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558553Z
+addr = 0xc35e10
+size = 0x1c8
+name = "CLoopModeFactory_CLoopModeGame_CreateLoopMode"
+type = "unsigned long long *"
+
+[header]
+name = "CLoopModeFactory_CLoopModeGame_CreateLoopMode"
+addr = 0xc35e10
+type = "unsigned long long *"
+
+[header.args]

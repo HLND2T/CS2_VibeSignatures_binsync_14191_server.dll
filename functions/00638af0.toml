@@ -1,0 +1,10 @@
+last_change = 2026-10-20T15:10:52.558217Z
+addr = 0x638af0
+size = 0x5
+name = "CBaseModelEntity_ScriptSetMeshGroupMask"
+
+[header]
+name = "CBaseModelEntity_ScriptSetMeshGroupMask"
+addr = 0x638af0
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558405Z
+addr = 0xb5e770
+size = 0x4a9
+name = "CBasePlayerPawn_PhysicsSimulate"
+type = "long long"
+
+[header]
+name = "CBasePlayerPawn_PhysicsSimulate"
+addr = 0xb5e770
+type = "long long"
+
+[header.args]

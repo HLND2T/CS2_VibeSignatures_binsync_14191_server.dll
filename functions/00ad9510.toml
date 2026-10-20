@@ -1,0 +1,10 @@
+last_change = 2026-10-20T15:10:52.558345Z
+addr = 0xad9510
+size = 0x389
+name = "CCSPlayer_MovementServices_SetupMove"
+
+[header]
+name = "CCSPlayer_MovementServices_SetupMove"
+addr = 0xad9510
+
+[header.args]

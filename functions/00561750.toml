@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558116Z
+addr = 0x561750
+size = 0x6c5
+name = "Script_RegisterCommandLineFunctions"
+type = "long long"
+
+[header]
+name = "Script_RegisterCommandLineFunctions"
+addr = 0x561750
+type = "long long"
+
+[header.args]

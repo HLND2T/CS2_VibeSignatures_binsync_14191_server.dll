@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558293Z
+addr = 0xa7f200
+size = 0xc
+name = "CCSPlayerController_InventoryUpdateThink"
+type = "long long"
+
+[header]
+name = "CCSPlayerController_InventoryUpdateThink"
+addr = 0xa7f200
+type = "long long"
+
+[header.args]

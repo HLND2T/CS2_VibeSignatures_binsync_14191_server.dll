@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558994Z
+addr = 0x13a1fd0
+size = 0x11a
+name = "CEntityInstance_Precache"
+type = "void"
+
+[header]
+name = "CEntityInstance_Precache"
+addr = 0x13a1fd0
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558586Z
+addr = 0xc54e50
+size = 0xd0
+name = "CLoopModeGame_OnServerPostAdvanceTick"
+type = "long long"
+
+[header]
+name = "CLoopModeGame_OnServerPostAdvanceTick"
+addr = 0xc54e50
+type = "long long"
+
+[header.args]

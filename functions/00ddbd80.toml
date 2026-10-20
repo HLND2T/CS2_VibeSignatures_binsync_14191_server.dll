@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558783Z
+addr = 0xddbd80
+size = 0x756
+name = "CSource2GameClients_ClientDiagnostic"
+type = "long long"
+
+[header]
+name = "CSource2GameClients_ClientDiagnostic"
+addr = 0xddbd80
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558505Z
+addr = 0xc09a30
+size = 0x3
+name = "CEntitySystem_OnEntityParentChanged"
+type = "void"
+
+[header]
+name = "CEntitySystem_OnEntityParentChanged"
+addr = 0xc09a30
+type = "void"
+
+[header.args]

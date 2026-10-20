@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558639Z
+addr = 0xcd6740
+size = 0x34
+name = "CBaseEntity_vdtor"
+type = "long long"
+
+[header]
+name = "CBaseEntity_vdtor"
+addr = 0xcd6740
+type = "long long"
+
+[header.args]

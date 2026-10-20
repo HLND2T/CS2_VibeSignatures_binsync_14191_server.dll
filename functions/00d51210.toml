@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:16.405560Z
+addr = 0xd51210
+size = 0x2fd
+name = "CCommentarySystem_Shutdown_Impl"
+type = "long long"
+
+[header]
+name = "CCommentarySystem_Shutdown_Impl"
+addr = 0xd51210
+type = "long long"
+
+[header.args]

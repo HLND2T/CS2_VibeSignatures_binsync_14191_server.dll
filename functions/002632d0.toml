@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:04.922885Z
+addr = 0x2632d0
+size = 0x2de
+name = "ScriptBinding_Entity_SetEntityName"
+type = "void"
+
+[header]
+name = "ScriptBinding_Entity_SetEntityName"
+addr = 0x2632d0
+type = "void"
+
+[header.args]

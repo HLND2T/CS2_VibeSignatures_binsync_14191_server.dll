@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:52.558349Z
+addr = 0xadd8a0
+size = 0x782
+name = "CCSPlayer_MovementServices_OnJumpModern"
+type = "void"
+
+[header]
+name = "CCSPlayer_MovementServices_OnJumpModern"
+addr = 0xadd8a0
+type = "void"
+
+[header.args]

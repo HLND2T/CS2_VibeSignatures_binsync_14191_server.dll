@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:11:12.495309Z
+addr = 0xbe6830
+size = 0x216
+name = "CLoadingSpawnGroup_CreateEntityToSpawn"
+type = "long long"
+
+[header]
+name = "CLoadingSpawnGroup_CreateEntityToSpawn"
+addr = 0xbe6830
+type = "long long"
+
+[header.args]
